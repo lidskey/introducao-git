@@ -9,3 +9,7 @@ git add . (o ponto insere todo o conteúdo da pasta)
 git commit - m "mensagem do commit"
 
 git push origin main 
+
+agora estamos na branch nova
+
+git checkout -b dev = troca de branch
