@@ -1,0 +1,11 @@
+FLUXO 
+
+git init - cria o repositório local
+
+git remote add origin "link do GitHub"
+
+git add . (o ponto insere todo o conteúdo da pasta)
+
+git commit - m "mensagem do commit"
+
+git push origin main 
